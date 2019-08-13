@@ -1,0 +1,7 @@
+C:\Users\SimpsoR\source\repos\Ex3_Stack\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\SimpsoR\source\repos\Ex3_Stack\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\SimpsoR\source\repos\Ex3_Stack\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\SimpsoR\source\repos\Ex3_Stack\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\SimpsoR\source\repos\Ex3_Stack\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\SimpsoR\source\repos\Ex3_Stack\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\SimpsoR\source\repos\Ex3_Stack\Stack\Stack\obj\Debug\Stack.pdb
